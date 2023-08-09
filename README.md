@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kumari Anjali Rao</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 
-<p align="center"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="anjalirao2001" /> </p>
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="anjalirao2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalirao2001" alt="anjalirao2001" /></a> </p>
 
