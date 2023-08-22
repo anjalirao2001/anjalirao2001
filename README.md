@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anjali07rao@gmail.com**
 
-- ⚡ Fun fact **nope I am not funny**
+- ⚡ Fun fact **Nope I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
