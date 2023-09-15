@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development, & javascript**
 
-- 💬 Ask me about **Android , Web Tech Related query**
+- 💬 Ask me about **Web Tech Related query**
 
 - 📫 How to reach me **anjali07rao@gmail.com**
 
