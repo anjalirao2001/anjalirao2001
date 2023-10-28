@@ -9,12 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/anjali07rao" target="blank"><img src="https://img.shields.io/twitter/follow/anjali07rao?logo=twitter&style=for-the-badge" alt="anjali07rao" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, & javascript**
+- 🌱 I’m currently learning **Web Development, javascript, React JS**
 
 - 💬 Ask me about **Web Tech Related query**
 
 - 📫 How to reach me **anjali07rao@gmail.com**
-
+ 
 - ⚡ Fun fact **Nope I am not funny**
 
 <h3 align="left">Connect with me:</h3>
