@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjalirao2001](https://github.com/anjalirao2001)
 
-- 💬 Ask me about **Web Tech Related query**
+- 💬 Ask me about **Web Tech Related query**👩‍🎓
 
 - 📫 How to reach me **anjali07rao@gmail.com**
 
