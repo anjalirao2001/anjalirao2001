@@ -1,6 +1,4 @@
-[![MasterHead]
-(https://www.google.com/imgres?q=programer%20unique%20gif%20banner&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F79731568097599.5b50bca477735.jpg&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&docid=milXc9SiR8lfMM&tbnid=FEaI70gwiCxdtM&vet=12ahUKEwjTpsyj_MmFAxXldvUHHXQ-D2MQM3oECBsQAA..i&w=1200&h=267&hcb=2&ved=2ahUKEwjTpsyj_MmFAxXldvUHHXQ-D2MQM3oECBsQAA)]()
-
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Kumari Anjali Rao</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
