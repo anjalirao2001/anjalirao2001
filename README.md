@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Speech Emotion Detection](it is in the process)
 
-- 🌱 I’m currently learning **Web Development, JavaScript, React Js**
+- 🌱 I’m currently learning **Angular, .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjalirao2001](https://github.com/anjalirao2001)
 
