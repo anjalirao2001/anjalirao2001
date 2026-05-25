@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjali07rao" target="blank"><img src="https://img.shields.io/twitter/follow/anjali07rao?logo=twitter&style=for-the-badge" alt="anjali07rao" /></a> </p>
 
-- 🔭 I’m currently working on [Speech Emotion Detection](it is in the process)
+<!--- 🔭 I’m currently working on [Speech Emotion Detection](it is in the process)-->
 
 - 🌱 I’m currently learning **Angular, .Net**
 
